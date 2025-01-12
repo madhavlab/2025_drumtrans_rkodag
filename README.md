@@ -27,12 +27,13 @@ To facilitate research in these areas, this repository includes:
   1.  **Presentation**: A PowerPoint file that explains key concepts of rhythm in Hindustani music, including the structure of Tala.
 
   2.  **Synthetic_Mridangam_Stroke_Dataset_D_M**: A curated dataset of synthetic Mridangam strokes for audio research and analysis.
-
+      
 
 ___
 
-
-  The dataset contains synthetic audio samples of Mridangam strokes.  The Mridangam, a prominent South Indian percussion instrument, is widely used in Carnatic music and has distinctive rhythmic patterns.
+[Download Synthetic_Mridangam_Stroke_Dataset_D_M](https://iitk-my.sharepoint.com/:f:/g/personal/rkodag_iitk_ac_in/Esz9ax0h4jhDgRsY_qv_KbEB_TkYsfBnfKCYPqPiNeeRog?e=6nSbwO)
+___
+The dataset contains synthetic audio samples of Mridangam strokes.  The Mridangam, a prominent South Indian percussion instrument, is widely used in Carnatic music and has distinctive rhythmic patterns.
 
           Synthetic_Mridangam_Stroke_D_M/
       
