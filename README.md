@@ -4,9 +4,14 @@ This repository focuses on **Meta-Learning-based Percussion Transcription** and 
 
 1. **Percussion Transcription**:
 
-   - **Tabla Stroke Transcription (TST)**: Identifying and classifying Tabla strokes from audio.
+   - **Tabla Stroke Transcription (TST)**: Identifying and classifying Tabla strokes, along with their timing information,
+      1. From Tabla solo recordings.
+      2. From complete concert audio, including melodic instruments and the singer's voice.
 
    - **Automatic Drum Transcription (ADT)**: Extracting drum strokes and their timing information from drum audio tracks.
+      1.  Drum Only Transcription (DTD): Transcription of drum strokes in isolation.
+      2.  Drums in Presence of Other Percussion (DTP): Transcribing drums in the presence of other percussion instruments.
+      3.  Drum in Melodic Instruments (DTM): Transcribing drums alongside melodic instruments.
 
 2. **Tala Identification**:
 
