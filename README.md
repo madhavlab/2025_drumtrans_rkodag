@@ -31,7 +31,7 @@ To facilitate research in these areas, this repository includes:
 
 ___
 
-[Download "Synthetic_Mridangam_Stroke_Dataset_D_M"](https://iitk-my.sharepoint.com/:f:/g/personal/rkodag_iitk_ac_in/Esz9ax0h4jhDgRsY_qv_KbEB_TkYsfBnfKCYPqPiNeeRog?e=6nSbwO)
+[Download "Synthetic_Mridangam_Stroke_Dataset_D_M"](https://iitk-my.sharepoint.com/:u:/g/personal/rkodag_iitk_ac_in/EU-7eKZxPpNOpDAEVUSaT0kBr4QXkMn6wP-MIDhuRMwbkQ?e=GuP44p)
 ___
 The dataset contains synthetic audio samples of Mridangam strokes.  The Mridangam, a prominent South Indian percussion instrument, is widely used in Carnatic music and has distinctive rhythmic patterns.
 
